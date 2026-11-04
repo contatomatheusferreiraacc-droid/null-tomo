@@ -1,0 +1,4 @@
+:HL["/null-tomo/_next/static/chunks/2-j0b0l3q9we-.css","style"]
+:HC["/",""]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"1tRQj35N_v9rSxqEJawjs","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
