@@ -1,0 +1,31 @@
+{
+  "title": "Null",
+  "source": "MODEL TCOM EM ANDAMENTO (3).cpmproject",
+  "sourceSha256": "a78fdd80e2fed4295d11b73634b717048e1f23ffa21bf1231d0761fff1786825",
+  "method": "Conversão da geometria e textura originais do CPM. Pose salva, sem o controlador de animações do Minecraft.",
+  "reference": "https://github.com/tom5454/CustomPlayerModels/blob/master/Web/src/blockbench/java/com/tom/cpm/blockbench/convert/BlockbenchImport.java",
+  "nodes": 1124,
+  "cubes": 555,
+  "hiddenCubes": 14,
+  "meshes": 7,
+  "triangles": 6660,
+  "texture": [
+    2096,
+    2384
+  ],
+  "originalBounds": {
+    "min": [
+      -14.064880618501105,
+      -2.7699996948242163,
+      -5.282799638741355
+    ],
+    "max": [
+      13.534880618501106,
+      37.718136428252635,
+      6.455670711037837
+    ]
+  },
+  "normalizedHeight": 3.8,
+  "bytes": 726836,
+  "glbSha256": "18e49d53c4dc572a9d12eb3aba96f5e2a18a980f19a0bc6e1adfbd52f04fd872"
+}
