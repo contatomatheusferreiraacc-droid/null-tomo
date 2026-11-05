@@ -1,0 +1,13 @@
+{
+  "name": "Null — reconstrução aprimorada v10",
+  "model": "null-portrait-v10.glb",
+  "sourceImage": "../character/null-seated-front-v9.png",
+  "method": "TripoSG local reconstruction; simplified mesh; repaired intact horn tip; depth-aware front projection; xatlas UVs",
+  "toolRepository": "https://github.com/VAST-AI-Research/TripoSG",
+  "toolLicense": "MIT",
+  "triangles": 179674,
+  "textureSize": 3072,
+  "bytes": 11464532,
+  "sha256": "62dab2dc32a187f30f4318b07cfa135cb8968f7d32618284bf35ff11bb9d57c4",
+  "limitations": "Sides, back and hidden surfaces are inferred from the approved single portrait and have less detail. Limited rotation favors the front view."
+}
