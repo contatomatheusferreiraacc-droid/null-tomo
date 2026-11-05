@@ -1,0 +1,13 @@
+{
+  "name": "Null — retrato aprovado v9",
+  "model": "null-portrait-v9.glb",
+  "sourceImage": "../character/null-seated-front-v9.png",
+  "method": "TripoSR local volume reconstruction; front-projected approved portrait; xatlas UVs",
+  "toolRepository": "https://github.com/VAST-AI-Research/TripoSR",
+  "toolLicense": "MIT",
+  "triangles": 110064,
+  "textureSize": 2048,
+  "bytes": 6660872,
+  "sha256": "47abbe590fe0922dc4dc514662dfba8a3d2f24dea72595471f983bdbcda8fc26",
+  "limitations": "Sides, back and hidden surfaces are inferred from a single image and have less detail. Limited rotation favors the approved front view."
+}
